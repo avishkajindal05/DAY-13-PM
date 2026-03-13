@@ -1,0 +1,62 @@
+respondent_id,name,age,city,satisfaction,rating,comments,email_opt_in
+0,julia,30.0,london,medium,2.0,bad experience,yes
+1,frank,,london,low,4.0,bad experience,no
+2,charlie,,berlin,low,2.0,,
+3,charlie,40.0,tokyo,high,1.0,,yes
+4,bob,,london,high,,bad experience,yes
+5,julia,,,high,1.0,bad experience,
+6,julia,,new york,medium,4.0,bad experience,no
+7,ivan,40.0,london,low,4.0,ok,yes
+8,alice,35.0,delhi,low,4.0,ok,no
+9,grace,30.0,london,low,2.0,ok,no
+10,hannah,,paris,high,2.0,,no
+11,david,,london,low,2.0,ok,no
+12,hannah,25.0,london,high,5.0,great service,yes
+13,frank,30.0,delhi,high,,,yes
+14,frank,35.0,paris,medium,4.0,,no
+15,grace,40.0,london,low,1.0,ok,no
+16,frank,40.0,new york,medium,3.0,bad experience,yes
+17,david,30.0,delhi,high,2.0,bad experience,
+18,charlie,30.0,london,high,2.0,great service,yes
+19,grace,,berlin,medium,2.0,bad experience,
+20,frank,35.0,london,medium,,,yes
+21,eva,35.0,delhi,low,3.0,bad experience,yes
+22,frank,25.0,london,high,,great service,yes
+23,bob,25.0,delhi,low,5.0,ok,no
+24,alice,,london,medium,,bad experience,
+25,ivan,,tokyo,low,2.0,bad experience,yes
+26,hannah,25.0,london,medium,2.0,great service,no
+27,hannah,,new york,low,3.0,,yes
+28,frank,,delhi,low,2.0,,yes
+29,julia,,new york,low,1.0,bad experience,no
+30,grace,,delhi,low,5.0,bad experience,
+31,charlie,,new york,low,4.0,,no
+32,ivan,40.0,paris,high,5.0,bad experience,yes
+33,bob,,tokyo,medium,4.0,,yes
+34,ivan,35.0,berlin,high,1.0,bad experience,no
+35,alice,,new york,low,3.0,great service,no
+36,ivan,30.0,delhi,high,3.0,bad experience,no
+37,grace,,delhi,low,,bad experience,no
+38,david,,new york,high,,,no
+39,charlie,,delhi,medium,,,no
+40,hannah,30.0,tokyo,high,4.0,great service,yes
+41,david,30.0,tokyo,high,2.0,great service,yes
+42,eva,25.0,tokyo,medium,1.0,,yes
+43,eva,40.0,london,low,,bad experience,no
+44,alice,35.0,delhi,low,,great service,yes
+45,eva,,paris,low,1.0,great service,no
+46,david,,berlin,low,4.0,,yes
+47,ivan,,paris,high,,,no
+48,eva,40.0,paris,medium,3.0,ok,
+49,grace,,delhi,low,2.0,,no
+50,bob,30.0,berlin,low,,bad experience,yes
+51,frank,,tokyo,medium,3.0,,yes
+52,grace,,london,low,4.0,,yes
+53,julia,,delhi,medium,2.0,,no
+54,hannah,40.0,london,medium,,great service,no
+55,bob,40.0,new york,high,1.0,bad experience,yes
+56,hannah,,new york,medium,,,yes
+57,eva,30.0,paris,medium,,bad experience,
+58,bob,25.0,tokyo,high,5.0,ok,
+59,ivan,,london,high,3.0,ok,no
+3,charlie,40.0,tokyo,high,1.0,great service,yes

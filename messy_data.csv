@@ -1,0 +1,21 @@
+id,name,age,city,income,signup_date,rating,category
+1, Alice ,25, New York ,50000,15/03/2024,5, Electronics
+2,Bob,30,LONDON,60000,2024-07-01,4,CLOTHING
+3,bob,30,london,60000,2024-07-01,4,CLOTHING
+4,Charlie, N/A ,Paris,45000,22-Nov-2024,3, Books
+5,David,40,BERLIN,70000,01/10/2024,5,Electronics
+6,Eva,35,Tokyo ,null,2024/06/15,4, Electronics
+7,Frank,,Delhi,55000,15-08-2024,3,Home
+8,Grace,29,New York,52000,2024-09-10,N/A,Electronics
+9,Hannah,31,London,58000,2024-05-12,5, clothing
+10,Ivan,27, Moscow ,48000,2024-03-22,4,Books
+11,Julia,33,Paris,62000,2024-11-05,4,Books
+12,Kevin,200,Berlin,90000,2024-01-01,5,Electronics
+13,Lisa,-5,Tokyo,40000,2024-02-15,2,Home
+14,Mike,28,,51000,2024-07-30,3,Electronics
+15,Nina,32,New York,abc,2024-03-10,4,Electronics
+16,Oscar,29,London,54000,2024-05-20,5,
+17,Paul,31,Delhi,56000,2024-04-11,4,Electronics
+18,Queen,30,Paris,59000,2024-06-19,5,Books
+19,Raj,34,Mumbai,61000,2024-08-25,4,Home
+20,Raj,34,Mumbai,61000,2024-08-25,4,Home

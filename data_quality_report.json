@@ -1,0 +1,22 @@
+{
+    "total_rows": 65,
+    "total_missing": 20,
+    "missing_per_column": {
+        "respondent_id": 0,
+        "name": 0,
+        "age": 11,
+        "city": 0,
+        "satisfaction": 0,
+        "rating": 0,
+        "comments": 9,
+        "email_opt_in": 0
+    },
+    "duplicate_count": 4,
+    "wrong_types": {
+        "age": 0
+    },
+    "invalid_values": {
+        "age_out_of_range": 21,
+        "invalid_rating": 16
+    }
+}
