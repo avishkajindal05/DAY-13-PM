@@ -96,7 +96,7 @@ DAY-13-PM/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/avishkajindal05/DAY-13-PM.git
 cd DAY-13-PM
 ```
 
@@ -147,4 +147,3 @@ This project is licensed under the **MIT License**.
 **Avishka Jindal**
 ---
 
-If you want next step: I can help you create a **single portfolio README linking all your Day 13, 25, 26, 27 projects** — that’s what recruiters actually look at.
